@@ -1,8 +1,4 @@
-<p align="center">
-    <a href="https://natron.io/">
-        <img height="120px" src="./assets/logo-typo.png" />
-    </a>
-</p>
+# Natron
 
 ## What is Natron?
 
