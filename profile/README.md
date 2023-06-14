@@ -19,4 +19,4 @@ Natron is a start-up based in **Bern**, Switzerland that specializes in building
 -   [Email](mailto:info@natron.io)
 
 ## Social
--   [LinkedIn](https://www.linkedin.com/company/86592575)
+-   [LinkedIn](https://www.linkedin.com/company/natron-tech)
